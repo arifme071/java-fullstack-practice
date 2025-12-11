@@ -1,0 +1,32 @@
+java-fullstack-practice/
+│
+├── course-1-fundamentals/
+│   ├── src/
+│   │   └── main/java/
+│   │       ├── basics/
+│   │       ├── conditionals/
+│   │       ├── loops/
+│   │       ├── arrays/
+│   │       └── methods/
+│   └── course-1-fundamentals.iml
+│
+├── course-2-oop/
+│   ├── src/main/java/
+│   │   ├── classes_objects/
+│   │   ├── inheritance/
+│   │   ├── polymorphism/
+│   │   ├── abstraction/
+│   │   ├── interfaces/
+│   │   └── collections/
+│   └── course-2-oop.iml
+│
+├── course-3-app-project/
+│   ├── src/main/java/
+│   │   └── app/
+│   └── course-3-app-project.iml
+│
+├── playground/
+│   └── src/main/java/
+│       └── experiments/
+│
+└── README.md
